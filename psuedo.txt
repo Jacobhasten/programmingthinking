@@ -1,0 +1,41 @@
+open the first drawer at your desk
+    For each item in that drawer
+        if that item is a box cutter
+            take the box cutter out of the drawer
+            put the box cutter on the desk
+        if that item is an envelope cutter
+            take the envelope cutter out of the drawer
+            put the envelope cutter on the desk next to the box cutter
+close the drawer
+
+for each piece of mail
+    if that piece of mail has your name on it
+        put it on the desk
+    else if you could tell it is junk mail
+        put in recyclying bin
+    else take the letter to the leasing office
+
+for each piece of mail on the desk
+    if the piece of mail is a package
+        take the box cutter from the desk and cut open the package
+        remove the item from the package
+        place the empty package and put in the recycling bin
+    for each letter on the desk
+        take the envelope cutter and open the letter
+        if the open letter is from a relative or a friend
+        put the letter in a pile to reply back later
+        if the open letter is a bill
+        take out your phone
+        open google calender app
+        set a remainder to pay the bill
+        else place the open letter in the recycling bin
+    for each coupon
+        if the coupon looks interesting
+        place the coupon in your bagpack
+        if the coupon doesn't look interesting
+        place in the recycling bin
+
+
+
+
+        
